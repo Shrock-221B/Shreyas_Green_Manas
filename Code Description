@@ -1,1 +1,13 @@
+Board_Design():
+This function is for the Structure and Design Of the game
+
+player_turn():
+This Function takes input from players and updates the game 
+
+gameover():
+This Function Checks If Game is Won or Not
+
+c++ libraries importing
+#include <stdlib.h>
+#include <iostream>
 
