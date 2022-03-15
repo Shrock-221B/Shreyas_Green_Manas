@@ -5,5 +5,6 @@ This game is the version for 2 human players.It accepts input from 0 to 8 for th
 
 You can view the source code as the .txt file and .cpp file .
 You can directly download and run TicTacToe.exe file to play the game.
+You can view the Code Description file to see what the functions and libraries do.
 
 
